@@ -1,0 +1,10 @@
+arana
+ardilla
+conejo
+delfin
+gato
+oso
+rana
+tiburon
+tortuga
+vaca
